@@ -1,0 +1,15 @@
+{
+  "name": "playbook",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "turbo build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@latest",
+  "dependencies": {
+    "turbo": "^1.10.15"
+  }
+}
